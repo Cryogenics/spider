@@ -19,7 +19,7 @@ dependencies:
   path: ^1.9.0
   yaml: ^3.1.2
   args: ^2.5.0
-  dart_style: ^2.3.6
+  dart_style: ^3.0.1
   logging: ^1.2.0
   watcher: ^1.1.0
   http: ^1.2.2
@@ -31,7 +31,7 @@ dependencies:
 
 dev_dependencies:
   # 2.4.5 doesn't work with logging.
-  build_runner: ^2.4.11
+  build_runner: ^2.4.15
   build_version: ^2.1.1
   test: ^1.25.8
   lints: ^4.0.0
